@@ -1,0 +1,12 @@
+[
+    {
+        "kategoria": "Dom",
+        "kwota": 3000.0,
+        "opis": "Wynajęcie mieszkania"
+    },
+    {
+        "kategoria": "Jedzenie",
+        "kwota": 800.0,
+        "opis": "Zakupy w Biedronce"
+    }
+]
