@@ -8,5 +8,10 @@
         "kategoria": "Jedzenie",
         "kwota": 800.0,
         "opis": "Zakupy w Biedronce"
+    },
+    {
+        "kategoria": "odziez",
+        "kwota": 1000.0,
+        "opis": "nowe buty"
     }
 ]
